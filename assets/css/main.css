@@ -3318,3 +3318,6 @@ input, select, textarea {
 .subheading {
 	color: chocolate;
 }
+img {
+	max-width: 100%;
+  }
